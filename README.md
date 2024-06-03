@@ -27,12 +27,15 @@ Express.js
 _Signup API_
 
 Endpoint: POST /register
+
 Description: Registers a new user account
 
 _Signin API_
 
 POST /signin
+
 Description: Logs in a user.
 
 **Contributing**
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
